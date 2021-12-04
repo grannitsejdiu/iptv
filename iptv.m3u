@@ -1,297 +1,601 @@
 #EXTM3U
-#EXTINF:0,RTK 1 HD
-http://103.194.169.171:8282/AL:_RTK_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTK 2 HD
-http://103.194.169.171:8282/AL:_RTK_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTK 3 HD
-http://103.194.169.171:8282/AL:_RTK_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTK 4 HD
-http://103.194.169.171:8282/AL:_RTK_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH  HD
-http://103.194.169.171:8282/AL:_RTSH_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH 2 HD
-http://103.194.169.171:8282/AL:_RTSH_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH 3 HD
-http://103.194.169.171:8282/AL:_RTSH_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH 24 HD
-http://103.194.169.171:8282/AL:_RTSH_24_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH Film HD
-http://103.194.169.171:8282/AL:_RTSH_Film_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH Korça HD
-http://103.194.169.171:8282/AL:_RTSHKorcaHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH Muzikë HD
-http://103.194.169.171:8282/AL:_RTSH_Muzike_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH Shqip HD
-http://103.194.169.171:8282/AL:_RTSH_Shqip_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH Plus HD
-http://103.194.169.171:8282/AL:_RTSH_Plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV 21 HD
-http://103.194.169.171:8282/AL:_RTV_21_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV 21 MK HD
-http://103.194.169.171:8282/AL:_RTV_21_MK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV 21 Mix HD
-http://103.194.169.171:8282/AL:_RTV_21_Mix_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV 21 Newsbiz HD
-http://103.194.169.171:8282/AL:_RTV_21_Newsbiz_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV 21 Plus HD
-http://103.194.169.171:8282/AL:_RTV_21_Plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV 21 Popullore HD
-http://103.194.169.171:8282/AL:_RTV_21_Popullore_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,First Channel
-http://103.194.169.171:8282/AL:_First_Channel_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Zjarr TV
-http://103.194.169.171:8282/AL:_Zjarr_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Prokum TV
-http://103.194.169.171:8282/AL:_Rrokum_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TV Dielli
-http://103.194.169.171:8282/AL:_TV_Dielli_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Klan Macedonia
-http://103.194.169.171:8282/AL:_Klan_Macedonia_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,ABC News
-http://103.194.169.171:8282/AL:_ABC_News_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,FOX News 
-http://103.194.169.171:8282/AL:_Fax_News_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Kanali 7
-http://103.194.169.171:8282/AL:_Kanali_7_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,News 24
-http://103.194.169.171:8282/AL:_News_24_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,ORA NEWS HD
-http://103.194.169.171:8282/AL:_Ora_News_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Report TV
-http://103.194.169.171:8282/AL:_Report_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Top News
-http://103.194.169.171:8282/AL:_Top_News_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Arta News
-http://103.194.169.171:8282/AL:_Arta_News_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Eurofilm
-http://103.194.169.171:8282/AL:_Eurofilm_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Aksion
-http://103.194.169.171:8282/AL:_Film_Aksion_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Autor HD
-http://103.194.169.171:8282/AL:_Film_Autor_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Dramё
-http://103.194.169.171:8282/AL:_Film_Drame_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Njё HD
-http://103.194.169.171:8282/AL:_Film_Nje_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Dy HD
-http://103.194.169.171:8282/AL:_Film_Dy_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Hits
-http://103.194.169.171:8282/AL:_Film_Hits_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Komedi
-http://103.194.169.171:8282/AL:_Film_Komedi_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Stinët
-http://103.194.169.171:8282/AL:_Film_Stinet_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Film Thriller
-http://103.194.169.171:8282/AL:_Film_Thriller_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,T HD
-http://103.194.169.171:8282/AL:_T_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,EXP Histori
-http://103.194.169.171:8282/AL:_Exp_Histori_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,EXP Shkence
-http://103.194.169.171:8282/AL:_Exp_Shkence_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,EXP Natyra
-http://103.194.169.171:8282/AL:_Exp_Natyra_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Fox
-http://103.194.169.171:8282/AL:_Fox_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Fox Life
-http://103.194.169.171:8282/AL:_Fox_Life_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Fox Crime
-http://103.194.169.171:8282/AL:_Fox_Crime_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TRING 3 PLUS
-http://103.194.169.171:8282/AL:_Tring_3_Plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TRING ACTION
-http://103.194.169.171:8282/AL:_Tring_Action_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Comedy
-http://103.194.169.171:8282/AL:_Tring_Comedy_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TRING FANTAZI
-http://103.194.169.171:8282/AL:_Tring_Fantasy_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Jolly
-http://103.194.169.171:8282/AL:_Tring_Jolly_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Life
-http://103.194.169.171:8282/AL:_Tring_Life_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TRING LIVING
-http://103.194.169.171:8282/AL:_Tring_Living_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Planet
-http://103.194.169.171:8282/AL:_Tring_Planet_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Shqip
-http://103.194.169.171:8282/AL:_Tring_Shqip_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TRING SMILE
-http://103.194.169.171:8282/AL:_Tring_Smile_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Super
-http://103.194.169.171:8282/AL:_Tring_Super_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring World
-http://103.194.169.171:8282/AL:_Tring_World_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Action
-http://103.194.169.171:8282/AL:_X_Action_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Cifteli
-http://103.194.169.171:8282/AL:_X_Cifteli_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Comedy
-http://103.194.169.171:8282/AL:_X_Comedy_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Dark
-http://103.194.169.171:8282/AL:_X_Dark_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Drama
-http://103.194.169.171:8282/AL:_X_Drama_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Family
-http://103.194.169.171:8282/AL:_X_Family_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Histori
-http://103.194.169.171:8282/AL:_X_Histori_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Natyra
-http://103.194.169.171:8282/AL:_X_Natyra_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Premium 1
-http://103.194.169.171:8282/AL:_X_Premium_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Premium 2
-http://103.194.169.171:8282/AL:_X_Premium_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Premium 3
-http://103.194.169.171:8282/AL:_X_Premium_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Premium 4
-http://103.194.169.171:8282/AL:_X_Premium_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Romance
-http://103.194.169.171:8282/AL:_X_Romance_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Sci-Fi
-http://103.194.169.171:8282/AL:_X_Sci-Fi_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Shkenca
-http://103.194.169.171:8282/AL:_X_Shkenca_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Thriller
-http://103.194.169.171:8282/AL:_X_Thriller_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,X_Western
-http://103.194.169.171:8282/AL:_X_Western_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Sky Aksion
-http://103.194.169.171:8282/AL:_Sky_Aksion_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Sky Drame
-http://103.194.169.171:8282/AL:_SKy_Drame_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Sky Novela
-http://103.194.169.171:8282/AL:_Sky_Novela_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Sky Max
-http://103.194.169.171:8282/AL:_Sky_Max_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Kino 1
-http://103.194.169.171:8282/AL:_Art_Kino_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Kino 2
-http://103.194.169.171:8282/AL:_Art_Kino_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Kino 3
-http://103.194.169.171:8282/AL:_Art_Kino_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tivivo Thriller
-http://103.194.169.171:8282/AL:_Tivivo_Thriller_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Medina Live
-http://103.194.169.171:8282/AL:_Medina_Live_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Mekka Live
-http://103.194.169.171:8282/AL:_Mekka_Live_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Peace TV
-http://103.194.169.171:8282/AL:_Peace_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV Islam
-http://103.194.169.171:8282/AL:_RTV_Islam_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV PENDIMI
-http://103.194.169.171:8282/AL:_RTV_Pendimi_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Amol TV
-http://103.194.169.171:8282/AL:_Amol_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,BBF Music
-http://103.194.169.171:8282/AL:_BBF_Music_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Dasma TV
-http://103.194.169.171:8282/AL:_Dasma_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV Syri Blue
-http://103.194.169.171:8282/AL:_RTV_Syri_Blue_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TV Opoja
-http://103.194.169.171:8282/AL:_TV_Opoja_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Alb Music
-http://103.194.169.171:8282/AL:_Alb_Music_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,EUROAL
-http://103.194.169.171:8282/AL:_Euro_ALHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV ZiK
-http://103.194.169.171:8282/AL:_RTV_ZiK_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,TOP ESTRADA
-http://103.194.169.171:8282/AL:_Top_Estrada_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTV Sharri
-http://103.194.169.171:8282/AL:_RTV_Sharri_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Melody TV
-http://103.194.169.171:8282/AL:_Melody_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,CLICK TV
-http://103.194.169.171:8282/AL:_Click_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,My Music
-http://103.194.169.171:8282/AL:_My_Music_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Folk Plus
-http://103.194.169.171:8282/AL:_Folk_Plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Junior TV
-http://103.194.169.171:8282/AL:_Junior_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Baby TV
-http://103.194.169.171:8282/AL:_Baby_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Bang Bang
-http://103.194.169.171:8282/AL:_Bang_Bang_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Cufo TV
-http://103.194.169.171:8282/AL:_Cufo_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Sofia TV
-http://103.194.169.171:8282/AL:_Sofia_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tip Tv
-http://103.194.169.171:8282/AL:_Tip_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Kids
-http://103.194.169.171:8282/AL:_Tring_Kids_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Tring
-http://103.194.169.171:8282/AL:_Tring_Tring_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Episode TV
-http://103.194.169.171:8282/AL:_Episode_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Doku 1
-http://103.194.169.171:8282/AL:_Art_Doku_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Doku 2
-http://103.194.169.171:8282/AL:_Art_Doku_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 1 HD
-http://103.194.169.171:8282/AL:_Super_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 1 FHD
-http://103.194.169.171:8282/AL:_Super_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 2 HD
-http://103.194.169.171:8282/AL:_Super_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 2 FHD
-http://103.194.169.171:8282/AL:_Super_Sport_2_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 3 HD
-http://103.194.169.171:8282/AL:_Super_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 3 FHD
-http://103.194.169.171:8282/AL:_Super_Sport_3_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 4 HD
-http://103.194.169.171:8282/AL:_Super_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 4 FHD
-http://103.194.169.171:8282/AL:_Super_Sport_4_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 5 HD
-http://103.194.169.171:8282/AL:_Super_Sport_5_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Super Sport 5 FHD
-http://103.194.169.171:8282/AL:_Super_Sport_5_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Sport 1 HD
-http://103.194.169.171:8282/AL:_Tring_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Sport 2 HD
-http://103.194.169.171:8282/AL:_Tring_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Sport 3 HD
-http://103.194.169.171:8282/AL:_Tring_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Tring Sport 4 HD
-http://103.194.169.171:8282/AL:_Tring_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Kujtesa Sport 1 HD
-http://103.194.169.171:8282/AL:_Kujtesa_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Kujtesa Sport 2 HD
-http://103.194.169.171:8282/AL:_Kujtesa_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Kujtesa Sport 3 HD
-http://103.194.169.171:8282/AL:_Kujtesa_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Kujtesa Sport 4 HD
-http://103.194.169.171:8282/AL:_Kujtesa_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Kujtesa Sport 5 HD
-http://103.194.169.171:8282/AL:_Kujtesa_Sport_5_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,RTSH Sport HD
-http://103.194.169.171:8282/AL:_RTSH_Sport_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Sport 1 FHD
-http://103.194.169.171:8282/AL:_Art_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Sport 2 FHD
-http://103.194.169.171:8282/AL:_Art_Sport_2_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Art Sport 3 FHD
-http://103.194.169.171:8282/AL:_Art_Sport_3_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Animal Planet
-http://103.194.169.171:8282/ex-yu_Animal_Planet/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Crime&Investigation
-http://103.194.169.171:8282/ex-yu_Crime_Investigation_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Discovery Channel
-http://103.194.169.171:8282/ex-yu_Discovery_Channel/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,ID Discovery
-http://103.194.169.171:8282/ex-yu_Discovery_ID/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,ID XTRA
-http://103.194.169.171:8282/ex-yu_ID_Xtra/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Discovery Scince
-http://103.194.169.171:8282/ex-yu_Discovery_Science/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Docu Box
-http://103.194.169.171:8282/ex-yu_Docu_Box/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,National Geographic Wild
-http://103.194.169.171:8282/ex-yu_Nat_Geo_Wild/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:0,Nat Geo HD
-http://103.194.169.171:8282/ex-yu_Nat_Geo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sport",GISPORTSTV
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/170703?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sport",GTV SPORTS
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/170704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 1 SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125240?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 1 SR HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 2 SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 2 SR HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125246?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 3 SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 3 SR HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125247?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 4 SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125243?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 4 SR HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125248?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ARENA SPORT 5 SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125244?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 1 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 1 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3368?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 2 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 3 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184101?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 4 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260893?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 5 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260892?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART SPORT 6 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 1 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51910?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 1 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51901?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 1 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 2
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/13660?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 2 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 2 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 4 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51905?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Arena Sport 5 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 FHD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/120381?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25775?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 FHD
+http://103.194.169.171:8282/AL:_Art_Sport_2_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29993?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25776?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 FHD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133905?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 FHD
+http://103.194.169.171:8282/AL:_Art_Sport_3_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29992?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Doc Sport HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102629?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",FreeSports HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51986?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",K Sport 1 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51995?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",K Sport 2 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125253?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",K Sport 2 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/51996?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",K Sport 4 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125255?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",KUJTESA SPORT 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",KUJTESA SPORT 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184113?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",KUJTESA SPORT 3 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184114?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",KUJTESA SPORT 4 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",KUJTESA SPORT 5 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1773?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 HD
+http://smartmedia.watch:2086/liam/1234/146342?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/3786.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 HD
+http://103.194.169.171:8282/AL:_Kujtesa_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 1 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/19595?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 2
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 2
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 2 HD
+http://iptvvi.com:80/Kratz/XhcpDpXsndad/55336?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 2 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/3785.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 2 HD
+http://103.194.169.171:8282/AL:_Kujtesa_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/246098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25748?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1775?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3 HD
+http://103.194.169.171:8282/AL:_Kujtesa_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/34368?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 3 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1783?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25749?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1776?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133901?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4 HD
+http://103.194.169.171:8282/AL:_Kujtesa_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/19598?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Kujtesa Sport 4 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1784?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",OVERSPORT 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260897?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",OVERSPORT 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260896?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",OVERSPORT 4 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260894?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH SPORT FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125251?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH SPORT HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/184119?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25663?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102688?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport FHD
+http://aziptv.live:80/Hdservers/Valendsuk/998?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/19593?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport HD
+http://iptv.csserv.co:8000/live/clientr725/631739/2854.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport HD
+http://103.194.169.171:8282/AL:_RTSH_Sport_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sports HD
+http://iptvvi.com:80/Kratz/XhcpDpXsndad/55241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Rtsh Sport
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1033?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1 4K
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3395?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 2 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 3 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360089?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 3 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3390?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 5 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360091?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 5 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 6 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 6 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118061?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 7 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400142477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT KOSOVA 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT KOSOVA 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT NEWS HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 1 HD HR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 1 HD SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 2 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 2 HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 2 HD HR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 2 HD SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125219?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 3 HD HR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 3 HD SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125220?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 4 HD HR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 4 HD SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport Klub 5 HD SR
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Sport News HD
+http://iptv.csserv.co:8000/live/clientr725/631739/1919.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport  4 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1
+http://iptvch.com:2082/ahmad123/ahmad321/153021?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1766?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1794?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102737?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 FHD
+http://103.194.169.171:8282/AL:_Super_Sport_2_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29422?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102738?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1768?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 FHD
+http://103.194.169.171:8282/AL:_Super_Sport_3_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125259?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29421?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://103.194.169.171:8282/AL:_Super_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61466?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://iptvvi.com:80/Kratz/XhcpDpXsndad/55341?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/283.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1796?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1769?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 FHD
+http://103.194.169.171:8282/AL:_Super_Sport_4_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125260?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29420?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61465?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 HD
+http://103.194.169.171:8282/AL:_Super_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102740?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 FHD
+http://103.194.169.171:8282/AL:_Super_Sport_5_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125261?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29419?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133897?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 HD
+http://103.194.169.171:8282/AL:_Super_Sport_5_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1798?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/62378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29418?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173867?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102611?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 6 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1799?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 7 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 7 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125232?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 7 FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/49033?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 7 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102612?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 1
+http://aziptv.live:80/Hdservers/Valendsuk/1789?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 1 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29416?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 1 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173870?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 1 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 1 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15459?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 2
+http://aziptv.live:80/Hdservers/Valendsuk/1790?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 2
+http://iptvch.com:2082/ahmad123/ahmad321/153030?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 2 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 2 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 2 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173872?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosova 2 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15458?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport News AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102736?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport News FHD AL [Multi-Audio]
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29423?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport News HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sports 4 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/284.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sports 5 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/3737.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super sport 2 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/205.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super sport 3
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 1
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 1 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52076?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25740?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 3 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52078?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 4
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 5 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52079?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 6
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25744?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Supersport Kosova 2
+http://iptv.csserv.co:8000/live/clientr725/631739/1542.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 1 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360092?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118110?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 2 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360093?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 3 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 3 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 4 FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 4 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118113?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT NEWS HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118114?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORTS 1
+http://iptv.csserv.co:8000/live/clientr725/631739/1924.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORTS 3
+http://iptv.csserv.co:8000/live/clientr725/631739/1926.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TeleSport
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/54.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102700?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1762?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125249?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29413?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 HD
+http://smartmedia.watch:2086/liam/1234/146273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61448?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 HD
+http://103.194.169.171:8282/AL:_Tring_Sport_1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 1 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1801?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25751?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1763?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52113?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52114?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/62426?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 FHD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/29412?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 HD
+http://103.194.169.171:8282/AL:_Tring_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1802?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3
+http://iptvch.com:2082/ahmad123/ahmad321/153018?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73498?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102702?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 FHD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52116?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125230?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://smartmedia.watch:2086/liam/1234/146275?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61446?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://103.194.169.171:8282/AL:_Tring_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://iptvvi.com:80/Kratz/XhcpDpXsndad/55272?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1803?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4
+http://iptvch.com:2082/ahmad123/ahmad321/153019?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25753?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/102703?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 FHD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125231?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61445?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 HD
+http://smartmedia.watch:2086/liam/1234/146276?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 HD AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15466?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 UHD
+http://aziptv.live:80/Hdservers/Valendsuk/1804?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25720?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125229?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News AL
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/15465?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News HD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61444?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News HD
+http://abmmedya.com:8080/ayfer1234/1234ayfer/52117?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",ESPN
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",FOX SPORTS NEWS
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 1 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 2 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 3 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",(DTV) Fox Sports EN HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/274070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",(DTV) Sportv HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/274078?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81018?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL Sport
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22792?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS  HD
+http://xgtv.club:8080/k3restream/k3restream/2117.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD
+http://multmix.site:80/talles/talles/296250?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR BAND SPORTS  (P)
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23038?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR ESPN
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23069?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR ESPN Extra HD
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR ESPN2
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR Esporte Interativo 1
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR FOX SPORTS
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23082?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR FOX SPORTS 2  (P)
+http://hdhd.tk:80/nmjiu8754/fggbvcddrt/23083?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band SPorts HD
+http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3195?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sport HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports
+http://asbx.xyz:80/gabi/123456/62677?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports FHD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81021?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/33192?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports HD
+http://multmix.site:80/talles/talles/296249?checkedby:iptvcat.com
